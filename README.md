@@ -1,6 +1,7 @@
 AWS Real-Time Threat Detection and Prevention 🚀
 This project focuses on implementing a comprehensive real-time threat monitoring and detection system using AWS services. It ensures enhanced security for organizational infrastructures by identifying and remediating potential security threats.
 Features 🌟
+
 • **Threat Detection:** Leverages AWS GuardDuty to detect malicious behavior using AWS CloudTrail, VPC Flow Logs, and DNS Logs.
 • **Real-Time Alerts:** Automatically generates findings for unexpected and potentially harmful activities in your AWS environment.
 • **Automated Remediation:** Uses AWS CloudWatch Events and Lambda functions to respond to threats in real-time.
@@ -25,6 +26,7 @@ Benefits ✅
 • Enhanced visibility into your AWS environment.
 • Real-time response to security threats.
 • Reduced manual effort with automated remediation.
+
 Prerequisites 📋
 • AWS account with necessary permissions.
 • Basic understanding of AWS services (GuardDuty, CloudWatch, Lambda).
