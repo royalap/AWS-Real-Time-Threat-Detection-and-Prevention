@@ -15,12 +15,13 @@ Workflow 🔄
 4. **Automated Remediation:** Lambda functions execute predefined actions to mitigate threats.
 
 AWS Services Used ☁️
-• **AWS GuardDuty:** Managed threat detection service.
-• **AWS CloudWatch Events:** Event-driven orchestration.
-• **AWS Lambda:** Serverless function execution for automated responses.
-• **AWS CloudTrail:** Logs API activity and resources access.
-• **Amazon VPC Flow Logs:** Captures network flow data for analysis.
-• **DNS Logs:** Monitors DNS queries for suspicious patterns.
+
+1. **AWS GuardDuty:** Managed threat detection service.
+2. **AWS CloudWatch Events:** Event-driven orchestration.
+3. **AWS Lambda:** Serverless function execution for automated responses.
+4. **AWS CloudTrail:** Logs API activity and resources access.
+5. **Amazon VPC Flow Logs:** Captures network flow data for analysis.
+6. **DNS Logs:** Monitors DNS queries for suspicious patterns.
 
 Benefits ✅
 • Enhanced visibility into your AWS environment.
