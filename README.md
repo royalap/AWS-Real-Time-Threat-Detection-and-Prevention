@@ -1,4 +1,5 @@
-AWS Real-Time Threat Detection and Prevention 🚀
+# **AWS Real-Time Threat Detection and Prevention 🚀**
+
 This project focuses on implementing a comprehensive real-time threat monitoring and detection system using AWS services. It ensures enhanced security for organizational infrastructures by identifying and remediating potential security threats.
 Features 🌟
 
